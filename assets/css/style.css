@@ -1,0 +1,20 @@
+body{
+	background-image: url("https://images7.alphacoders.com/667/667662.jpg");
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color:transparent !important; 
+}
+.jumbotron h1 {
+	color: #EA4335;
+	font-size: 75px;
+}
+.jumbotron p {
+	color: #0d0d0d;
+}
+.jumbotron a {
+	margin-top: 50px;
+}
