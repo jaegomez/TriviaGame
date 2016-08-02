@@ -18,3 +18,26 @@ body{
 .jumbotron a {
 	margin-top: 50px;
 }
+h3 {
+	text-align: center;
+	color: ;
+}
+
+.restartButton {
+	text-align: center;
+}
+
+.triviaQbox {
+	text-align: center;
+	font-size: 16px;
+	color: #050E39;
+	border-color: #5FDE1B;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 10%;
+	width: 500px;
+	padding: 5px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: #3DB991;
+}
