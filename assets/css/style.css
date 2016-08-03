@@ -41,3 +41,22 @@ h3 {
 	margin-top: 10px;
 	background-color: #3DB991;
 }
+
+button {
+	font-family: Arial;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #3DB991;
+	padding: 0;
+	border: none;
+}
+
+button:hover {
+	color: #050E39;
+	border-style: solid;
+	border-color: #FF7602;
+	width: 200px;
+	background-color: #FF7602;
+	height: 50px;
+	border-radius: 2px;
+}
